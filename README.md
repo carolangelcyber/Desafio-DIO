@@ -1,6 +1,6 @@
 # Meu Projeto de API Bancária - Desafio DIO 🚀
 
-Olá! Este é o meu projeto desenvolvido para a trilha de Python da plataforma **DIO*** Criei um sistema para um banco que funciona de forma rápida e moderna (chamada de assíncrona).
+Olá! Este é o meu projeto desenvolvido para a trilha de Python da plataforma **DIO** Criei um sistema para um banco que funciona de forma rápida e moderna (chamada de assíncrona).
 
 ## 🛠️ O que foi usado no projeto:
 
